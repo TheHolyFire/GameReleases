@@ -1,4 +1,4 @@
 # GameReleases
 
 Aktuelle Games:
-TMSA [Beta]
+TMSA [v0.0.1]
